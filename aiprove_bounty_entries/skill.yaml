@@ -1,5 +1,0 @@
-name: aiprove_bounty_entries
-title: AIProve Bounty Entries
-description: Enter, build, submit and verify a free AIProve bounty in beta, checking live whether entry is actually open.
-category: Work and knowledge
-include_in_prompt: true
