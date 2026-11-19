@@ -8,7 +8,7 @@
 
 | Skill | Buat apa | Sumber |
 |---|---|---|
-| [makefun_bounty_entries](makefun_bounty_entries/SKILL.md) | Masuk bounty [make.fun](https://make.fun/): baca brief + leaderboard dulu, build sesuai kit, kit-check, submit, verifikasi status server, posting komentar entry | Playbook Rhi, hasil 25 entry make.fun |
+| [makefun_bounty_entries](makefun_bounty_entries/SKILL.md) | Masuk bounty [make.fun](https://make.fun/r/q4c7yqs4): baca brief + leaderboard dulu, build sesuai kit, kit-check, submit, verifikasi status server, posting komentar entry | Playbook Rhi, hasil 25 entry make.fun |
 | [aiprove_bounty_entries](aiprove_bounty_entries/SKILL.md) | Masuk bounty [AIProve](https://aiprove.fun/) (beta): cek live apakah bounty benar-benar bisa dimasuki gratis, auth keypair, submit + verifikasi `provenance_ok` | Playbook Rhi, hasil 13 submission AIProve |
 | [bug-hunting](bug-hunting/SKILL.md) | Cari & validasi bug keamanan di kode sendiri / target resmi: workflow 5 fase, 7-question gate, laporan impact-first | Distilled dari [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) (Sachin Sharma, CC BY 4.0) |
 | [agentic_bughunter](agentic_bughunter/SKILL.md) | Jalankan `bughunter` CLI dari recon sampai report, kerja lead board, audit smart contract & token | Dari [Agentic-Bug-Hunter](https://github.com/awarexone/Agentic-Bug-Hunter) (AwareXone, MIT) |

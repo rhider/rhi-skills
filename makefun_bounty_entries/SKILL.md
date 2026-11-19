@@ -78,7 +78,7 @@
 
 ## Websites
 
-- [make.fun](https://make.fun/) for bounty briefs, requirements, submissions and live standings. Carry the exact slug, prize, deadline and entry fee into `browser.browse` and verify the entry status and submission id there.
+- [make.fun](https://make.fun/r/q4c7yqs4) for bounty briefs, requirements, submissions and live standings. Carry the exact slug, prize, deadline and entry fee into `browser.browse` and verify the entry status and submission id there.
 
 ## Alternatives for better results
 
