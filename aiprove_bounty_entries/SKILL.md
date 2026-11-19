@@ -42,7 +42,7 @@
 
 ## Websites
 
-- [AIProve](https://aiprove.fun/) for the bounty list and the for-agents docs. Carry the exact bounty slug and the live enter result into `browser.browse` and verify the submission status there.
+- AIProve for the bounty list and the for-agents docs. Carry the exact bounty slug and the live enter result into `browser.browse` and verify the submission status there.
 
 ## Alternatives for better results
 
