@@ -1,0 +1,5 @@
+name: makefun_bounty_entries
+title: Make.fun Bounty Entries
+description: Build, kit-check, submit and verify a make.fun bounty entry in order, with the brief and leaderboard read first.
+category: Work and knowledge
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: anthropic_skills
+title: Anthropic Official Skills
+description: Router and catalog for Anthropic's official example skills: documents, slides, spreadsheets, frontend design, web artifacts, testing, generative art, MCP servers and skill creation.
+category: Work and knowledge
+include_in_prompt: true

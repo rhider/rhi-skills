@@ -1,0 +1,5 @@
+name: bug_hunting
+title: Bug Hunting and Security Review
+description: Hunt and validate security bugs in the user's own code or authorized in-scope targets with the five-phase workflow and the seven-question gate, and write impact-first reports.
+category: Work and knowledge
+include_in_prompt: true

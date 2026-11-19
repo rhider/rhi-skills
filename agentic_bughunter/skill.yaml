@@ -1,0 +1,5 @@
+name: agentic_bughunter
+title: Agentic Bug Hunter CLI and Web3 Audit
+description: Run the standalone bughunter CLI from recon to report, work a lead board, and audit smart contracts and tokens, for the user's own code or authorized in-scope targets.
+category: Work and knowledge
+include_in_prompt: true
